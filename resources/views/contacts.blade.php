@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             <div class="col-6 text-center">
-                <h1>Contacts</h1>
+                <h1>Contacts us</h1>
             </div>
 
         </div>
